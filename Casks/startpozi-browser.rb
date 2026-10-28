@@ -1,6 +1,6 @@
 cask "startpozi-browser" do
-  version "1.0.0"
-  sha256 "c0b8086e36bba8cb2214decc6d319c4fb519bb5875c8c03321c14b443bc74ab0"
+  version "1.0.1"
+  sha256 "956b075e0f84cca57aa764686485afb32fd6db1809556dfe2cdf52667e5a6a9f"
 
   # GitHub нормализует имена asset'ов: пробелы → точки, поэтому в URL
   # «StartPOZI Browser» превращается в «StartPOZI.Browser» (URL с %20 — 404).
