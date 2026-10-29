@@ -2,7 +2,7 @@ class StartpoziBrowser < Formula
   desc "The safe private browser"
   homepage "https://github.com/StartPOZI/StartPOZI-Desktop-Browser"
   url "https://github.com/StartPOZI/StartPOZI-Desktop-Browser/releases/download/v1.0.1/StartPOZI.Browser-1.0.1.AppImage"
-  sha256 "b6b9a08b079fdc90e11361deba17b1522d12b7a751d9948390716c10c54bb1f6"
+  sha256 "02938f99ae9e08a5c6dcc5e7ca0076e54363d98ff43844dda1ea2448daa0ef84"
   version "1.0.1"
 
   livecheck do
